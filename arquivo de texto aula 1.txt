@@ -1,59 +1,21 @@
 JURIMETRIA
 
-Jurimetria nada mais é do que uma forma de um possível controle , em avaliar as possibilidades e estatística para um determinado caso jurídico em questão. Então , nesse contexto esse método pode oferecer probabilidades, valores referentes ao caso concreto , padrões em decisões judiciais para assim prever e avaliar as diferentes variantes que podem o rodear e dessa forma tornar o trabalho dos profissionais envolvidos mais eficaz
-
+Jurimetria nada mais é do que uma forma de um possível controle , em avaliar as possibilidades e estatística para um determinado caso jurídico em questão. Então , nesse contexto esse método pode oferecer probabilidades, valores referentes ao caso concreto , padrões em decisões judiciais para assim prever e avaliar as diferentes variantes que podem o rodear e dessa forma tornar o trabalho dos profissionais envolvidos mais eficaz.
 É cabível ressaltar que essa função tem sido cada vez mais automatizada o que de fato traz inúmeros benefícios como a maior celeridade , estratégia e possibilidade do processamento em massa.
-
-
-
-Jurimetria: entenda o que é, a importância e veja exemplos
-
+Jurimetria fontes: entenda o que é, a importância e veja exemplos
 https://www.projuris.com.br/blog/jurimetria/?amp
 
-
-
 ALGORITMO 
-
-
-
 O famigerado algoritmo gera bastante  curiosidade no que tange ao real significado , principalmente por ser tão utilizado em diversas colocações . Este se resume em instruções , no passo a passo , em um manual de como as tarefas devem ser executadas ou os problemas solucionados, assim o algoritmo funciona quase como um guia do que fazer ,  este foi programado pelos profissionais para determinar o caminho a seguir ao abrir uma página , no processo de abertura de um link, na interação .
-
-
-
 https://conteudo.saraivaeducacao.com.br/tecnologia/algoritmo/
 
-
-
 INTELIGÊNCIA ARTIFICIAL 
-
-
-
 A inteligência artificial atualmente apontada como um dos campos de pesquisa mais promissores da era digital , foca em desenvolver máquinas e as programar para estas realizarem as atividades “humanas” como na área médica e até mesmo na jurídica. Contudo , não se trata apenas disso o objetivo é igualar ou até mesmo superar a capacidade cognitiva dos seres humanos. Vale ressaltar que essa tecnologia utiliza machine learning e deep learning para assim os dados se tornarem cada vez mais eficazes para o aprimoramento da tecnologia, identificando padrões para assim o desenvolvimento se tornar cada vez mais semelhante a o que seria uma resposta humana , de um comportamento humano.
-
 Vale destacar que este não é um trabalho que se limita  a fontes textuais mas sim na amplitude social como alteração de imagens , reprodução da voz , há uma infinidade de possibilidades.
-
-https://www.totvs.com/blog/inovacoes/o-que-e-inteligencia-artificial/
-
-
-
-
+fontes https://www.totvs.com/blog/inovacoes/o-que-e-inteligencia-artificial/
 
 BANCO DE DADOS 
-
-
-
-O banco de dados se trata de um “ambiente ” para organizar e armazenar informações para assim melhor a experiência tanto do usuário quanto da equipe.
-
-
-
- 
-
-
-
-
+O banco de dados se trata de um “ambiente ” para organizar e armazenar informações para assim melhorar a experiência tanto do usuário quanto da equipe.
 
 DADOS 
-
-
-
 Dados são como fontes de informação que podem ser obtidos através de medição ou observação
