@@ -1,0 +1,13 @@
+O sistema do inss foi acusado de utilizar um sistema automatizado que acaba negando aposentadorias sem a análise de mérito. Esta seria uma acusação séria, que vem passando por uma investigação até porque deve-se expor o motivo das aposentadorias estarem sendo negadas para garantir o cumprimento real do procedimento solicitado, além disso não seria um processo 100% automatizado como dizem, este contém uma análise na qual os profissionais se embasam para tomar a decisão final.
+
+
+
+O algoritmo pode ser utilizado como análise de crédito para posteriormente ter uma tomada de decisão baseada nos dados e na análise realizada pelos algoritmos 
+
+
+
+Negativa de crédito precisa ser justificada sim, principalmente pelo controle a tomada de decisão do mérito do procedimento utilizado para analisar se foi realizado corretamente , além de identificar o porque este crédito está sendo negado é como uma espécie de motivação das decisões judiciais 
+
+
+
+Rede neural é um método computacional que funciona basicamente na resolução de questões , problemas , análises para tentar replicar o pensamento humano contudo em síntese é basicamente uma função matemática complexa que transforma a informação em vetor de número para obter-se um produto final normalmente informacional para auxiliar em uma tomada de decisão
