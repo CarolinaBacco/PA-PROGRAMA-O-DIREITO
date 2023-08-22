@@ -1,0 +1,7 @@
+1-a) data centers são empresas,estruturas que processam os dados basicamente estruturas físicas com computadores que armazenam e processam dados constantemente.Em virtude disso, estes devem estar em conformidade com a LGPD , esta apresenta responsabilidade dos data centers inclusive fora do brasil mesmo que esta empresa não exista no brasil , além de todo território nacional que também consta com essa proteção. O que consagra a abragência extraterritorial da LGPD.
+
+b)pode se escolher o formato de arquivos, o de dados proprietários que normalmente são relacionados, dependem de uma empresa ou organização, então a utilização esta condicionada a participação e ao pertencimento a determinada organização, já o formato aberto é de certa forma público ou seja podem ser acessados por qualquer um.  
+
+b1)Como exemplo de formatos de arquivos proprietários existe o adoble flash e como formatos públicos existem o PNG, JPG
+
+b2)A relação entre os dados públicos muitas vezes esta relacionada a vantagem de possuir acesso por todos e este não estar condicionado a uma organização específica logo a sua utilização não poderia ser 'cortada' ou revogada 
