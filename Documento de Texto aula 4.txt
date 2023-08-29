@@ -1,0 +1,44 @@
+
+
+1- Enquanto a linguagem PHP é um código aberto voltado para o desenvolvimento da Web ao lado do servidor,este pode adicionar, modificar e excluir dados com facilidade dentro do banco de dados, além de coletar dados , gerar conteúdo dinâmico de página, , abrir,ler ,fechar ou excluir arquivos. Já o Python é muito mais simples de ser utilizada e possui um meior recurso de segurança. Essa linguagem é utilizada para criar aplicativos de web por conta da sua variedade de opçoes, para o desenvolvimento de jogos , inteligência de dados , criação de softwares e prototipagem rápida. O java script por sua vez é uma linguagem de código dinânica que possui uma sintaxe mais complexa , este programa é voltado para adicionar interatividade aos sites ou seja é executada na área do cliente, usuário, existem alguns exemplos como menus interativos,animações, validações de formulários  
+
+
+A)Códigos mínimos:
+
+PHP
+<?php
+// Carol
+$array = array("1" => "PHP code tester Sandbox Online",
+    "emoji" => "😀 😃 😄 😁 😆", 5 , 5 => 89009,
+    "Random number" => rand(100,999),
+    "PHP Version" => phpversion()
+);
+
+foreach( $array as $key => $value ){
+    echo $key."\t=>\t".$value."\n";
+} 
+
+PYTHON
+print('Hello world!')
+
+JAVA SCRIPT
+console.log("Carol");
+
+1-B)Códigos executados:
+
+PHP EXECUTADO 
+1	=>	PHP code tester Sandbox Online
+emoji	=>	😀 😃 😄 😁 😆
+2	=>	5
+5	=>	89009
+Random number	=>	936
+PHP Version	=>	8.2.9
+
+
+PYTHON EXECUTADO 
+Hello world!
+
+
+JAVA SCRIPT EXECUTADO
+node /tmp/Ik0quXgbUF.js
+Carol
